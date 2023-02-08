@@ -1,0 +1,16 @@
+.container{
+  height: 300px;
+  width: 1000px;
+  background-color: black;
+}
+
+.in{
+  dispay:inline;
+  color:blue;
+  font-size: xx-large;
+}
+.bl{
+  display:block;
+  color:blue;
+  font-size: xx-large;
+}
